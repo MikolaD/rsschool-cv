@@ -24,15 +24,17 @@ as well as I have bright leadership qualities.
 + CorelDRAW
 + SolidWorks
 + Photoshop
+
 ## Code example
-    `function highAndLow(numbers) {
-  
-      const a = numbers.split(" ");
-      var max = Math.max.apply(null,a);
-      var min = Math.min.apply(null,a);
-  
-      return max +" "+ min;
-    }`
+``function highAndLow(numbers) {
+
+    const a = numbers.split(" ");
+    var max = Math.max.apply(null,a);
+    var min = Math.min.apply(null,a);
+
+    return max +" "+ min;
+}``
+
 ## Experience
 I'm more of a draftsman and I'm on the starting line.
 
