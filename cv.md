@@ -27,14 +27,17 @@ as well as I have bright leadership qualities.
 
 ## Code example
 
-    `function highAndLow(numbers) {
+```
+
+    function highAndLow(numbers) {
 
         const a = numbers.split(" ");
         var max = Math.max.apply(null,a);
         var min = Math.min.apply(null,a);
 
         return `${max} ${min}`;
-    }`
+    }
+```
 
 ## Experience
 I'm more of a draftsman and I'm on the starting line.
@@ -44,5 +47,6 @@ I'm more of a draftsman and I'm on the starting line.
 #### Specialist’s degree
 
 + electrical engineer
+
 ## English level
 A2
