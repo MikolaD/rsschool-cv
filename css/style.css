@@ -1,0 +1,64 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+img {
+    width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
+
+h1, h4 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+h4 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+section {
+    width: 80%;
+    margin: 20px auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    margin: 0;
+    padding: 10px 0;
+
+}
+p {
+    line-height: 1.5;
+}
+.code div {
+    width: 35%;
+    background-color: rgb(228, 225, 225);
+    border-radius: 10px;
+    padding: 20px 30px;
+
+
+}
