@@ -9,6 +9,7 @@
 + Telegram: Nikola Nikola
 + GitHub: <https://github.com/MikolaD>
 + Email: <nikolai.dozhyn@gmail.com>
++ Linkedin: <https://www.linkedin.com/in/mikalai-dozhyn-1a16ab235>
 
 ##About me
 I work as an engineer. But I've been wanting to master an IT specialty for a long time, well, now it's time to do it. I can say about myself that. I have such strong character traits as:
