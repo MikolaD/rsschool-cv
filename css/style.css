@@ -8,7 +8,7 @@ header {
     justify-content: space-between;
     margin: 0 auto;
     width: 80%;
-
+    align-items: center;
 }
 
 img {
@@ -50,6 +50,11 @@ li {
     margin: 0;
     padding: 10px 0;
 
+}
+
+.contacts ul {
+    list-style-type: circle;
+    padding-left: 20px;
 }
 p {
     line-height: 1.5;
